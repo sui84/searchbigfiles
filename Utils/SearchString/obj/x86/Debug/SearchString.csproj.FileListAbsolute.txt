@@ -6,3 +6,6 @@ E:\MyProjects\Utils\SearchString\bin\Debug\Common.dll
 E:\MyProjects\Utils\SearchString\bin\Debug\Common.pdb
 E:\MyProjects\Utils\SearchString\obj\x86\Debug\SearchString.exe
 E:\MyProjects\Utils\SearchString\obj\x86\Debug\SearchString.pdb
+E:\MyProjects\Github\searchbigfiles\Utils\SearchString\bin\Debug\SearchString.exe.config
+E:\MyProjects\Github\searchbigfiles\Utils\SearchString\obj\x86\Debug\SearchString.exe
+E:\MyProjects\Github\searchbigfiles\Utils\SearchString\obj\x86\Debug\SearchString.pdb
