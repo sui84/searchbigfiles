@@ -1,0 +1,8 @@
+E:\MyProjects\Utils\SearchString\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyProjects\Utils\SearchString\bin\Debug\SearchString.exe.config
+E:\MyProjects\Utils\SearchString\bin\Debug\SearchString.exe
+E:\MyProjects\Utils\SearchString\bin\Debug\SearchString.pdb
+E:\MyProjects\Utils\SearchString\bin\Debug\Common.dll
+E:\MyProjects\Utils\SearchString\bin\Debug\Common.pdb
+E:\MyProjects\Utils\SearchString\obj\x86\Debug\SearchString.exe
+E:\MyProjects\Utils\SearchString\obj\x86\Debug\SearchString.pdb

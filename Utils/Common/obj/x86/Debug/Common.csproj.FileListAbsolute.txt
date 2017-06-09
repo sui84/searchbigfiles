@@ -1,0 +1,5 @@
+E:\MyProjects\Utils\Common\bin\Debug\Common.dll
+E:\MyProjects\Utils\Common\bin\Debug\Common.pdb
+E:\MyProjects\Utils\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyProjects\Utils\Common\obj\x86\Debug\Common.dll
+E:\MyProjects\Utils\Common\obj\x86\Debug\Common.pdb

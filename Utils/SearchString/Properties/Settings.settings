@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SearchString.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\DB\txt</Value>
+    </Setting>
+    <Setting Name="ConnStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=SC-201609232107\SQLEXPRESS;Initial Catalog=MM;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="FileDepth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="TheadNum" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="LogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\log.txt</Value>
+    </Setting>
+    <Setting Name="ResultPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\Result</Value>
+    </Setting>
+    <Setting Name="StringFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\FindString.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
